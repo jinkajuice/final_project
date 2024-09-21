@@ -1,0 +1,882 @@
+ID,True Label,Predicted Label,Token
+0,B-Artist,B-Artist,rob
+0,I-Artist,I-Artist,thomas
+0,B-Work of Art,B-Work of Art,little
+0,I-Work of Art,I-Work of Art,wonders
+0,O,O,recomendations
+1,O,O,looking
+1,O,O,or
+1,O,O,spacey
+1,O,O,psychedelic
+1,O,O,music
+2,O,O,songs
+2,O,O,like
+2,O,O,this
+2,O,O,one
+3,O,O,suggestions
+3,O,O,for
+3,O,O,post
+3,O,O,punk
+3,O,O,albums
+3,O,O,nothing
+3,O,O,too
+3,O,O,obscure
+3,O,O,for
+3,O,O,someone
+3,O,O,who
+3,O,O,liked
+3,B-Work of Art,B-Work of Art,unknown
+3,I-Work of Art,I-Work of Art,pleasures
+3,O,O,and
+3,B-Artist,B-Artist,public
+3,I-Artist,I-Artist,image
+3,I-Artist,I-Artist,ltd
+4,O,O,looking
+4,O,O,for
+4,O,O,brass
+4,O,O,heavy
+4,O,O,songs
+5,O,O,suggest
+5,O,O,music
+5,O,O,similar
+5,O,O,to
+5,O,O,the
+5,O,O,one
+5,O,O,created
+5,O,O,by
+5,B-Artist,B-Artist,swedish
+5,I-Artist,I-Artist,house
+5,I-Artist,I-Artist,mafia
+6,O,O,something
+6,O,O,with
+6,O,O,a
+6,O,O,garage
+6,O,O,heavy
+6,O,O,fuzz
+6,O,O,sound
+6,O,O,similar
+6,O,O,to
+6,O,O,this
+6,O,O,track
+6,O,O,by
+6,B-Artist,B-Artist,ty
+6,I-Artist,I-Artist,segall
+7,O,O,good
+7,O,O,full
+7,O,O,albums
+7,O,O,that
+7,O,O,tell
+7,O,O,a
+7,O,O,story
+8,O,O,looking
+8,O,O,for
+8,O,O,songs
+8,O,O,similar
+8,O,O,to
+8,O,O,this
+9,B-Artist,B-Artist,andrew
+9,I-Artist,I-Artist,huang
+9,B-Work of Art,B-Work of Art,300000
+9,I-Work of Art,I-Work of Art,note
+9,I-Work of Art,I-Work of Art,song
+9,O,O,|
+9,O,O,any
+9,O,O,other
+9,O,O,songs
+9,O,O,that
+9,O,O,resembles
+9,O,O,this
+10,O,O,help
+10,O,O,|
+10,O,O,cant
+10,O,O,remember
+10,O,O,the
+10,O,O,song
+10,O,O,name
+11,O,O,looking
+11,O,O,for
+11,O,O,nostalgic
+11,O,O,happy
+11,O,O,sad
+11,O,O,music
+12,O,O,im
+12,O,O,looking
+12,O,O,for
+12,O,O,love
+12,O,O,songs
+13,O,O,recommend
+13,O,O,songs
+13,O,O,with
+13,O,O,female
+13,O,O,vocals
+13,O,O,or
+13,O,O,songs
+13,O,O,with
+13,O,O,female
+13,O,O,singers
+14,O,O,unrelenting
+14,O,O,energy
+14,O,O,like
+14,B-Artist,B-Artist,rev
+14,I-Artist,I-Artist,theorys
+14,B-Work of Art,B-Work of Art,hell
+14,I-Work of Art,I-Work of Art,yeah
+15,O,O,just
+15,O,O,want
+15,O,O,some
+15,O,O,more
+15,O,O,music
+15,O,O,to
+15,O,O,listen
+15,O,O,to
+16,O,O,90s
+16,O,O,songs
+16,O,O,by
+16,O,B-Artist,black
+16,O,O,women
+17,O,O,something
+17,O,O,new
+17,O,O,from
+17,O,O,hip
+17,O,O,hop
+18,O,O,help
+18,O,O,recomendations
+18,O,O,|
+18,O,O,60s
+18,O,O,80s
+18,O,O,funk
+18,O,O,and
+18,O,O,soul
+19,O,O,looking
+19,O,O,for
+19,O,O,creepy
+19,O,O,ambient
+19,O,O,music
+19,O,O,while
+19,O,O,writing
+20,O,O,find
+20,O,O,me
+20,O,O,music
+20,O,O,with
+20,O,O,dark
+20,O,O,lyrics
+20,O,O,covered
+20,O,O,by
+20,O,O,an
+20,O,O,upbeat
+20,O,O,musical
+20,O,O,score
+21,O,O,help
+21,O,O,with
+21,O,O,new
+21,O,O,music
+22,O,O,need
+22,O,O,newer
+22,O,O,2016+
+22,O,O,indie
+22,O,O,music
+22,O,O,|
+22,O,O,any
+22,O,O,recommendations
+23,O,O,boybands
+23,O,O,and
+23,O,O,girlbands
+23,O,O,after
+23,O,O,2005
+23,O,O,similar
+23,O,O,to
+23,O,O,these
+23,O,O,ones
+24,O,O,bands
+24,O,O,similar
+24,O,O,to
+24,B-Artist,B-Artist,arctic
+24,I-Artist,I-Artist,monkeys
+25,O,O,looking
+25,O,O,for
+25,O,O,complex
+25,O,O,lyrically
+25,O,O,or
+25,O,O,musically
+25,O,O,high
+25,O,O,energy
+25,O,O,music
+26,O,O,music
+26,O,O,similar
+26,O,O,to
+26,B-Artist,B-Artist,capital
+26,I-Artist,I-Artist,cities
+27,O,O,what
+27,O,O,would
+27,O,O,you
+27,O,O,reccommend
+27,O,O,probably
+27,O,O,from
+27,B-Artist,O,timberlake
+27,O,B-Artist,if
+27,O,O,i
+27,O,O,liked
+27,B-Work of Art,O,the
+27,I-Work of Art,O,snl
+27,I-Work of Art,B-Work of Art,trilogy
+27,O,I-Work of Art,|
+27,B-Work of Art,I-Work of Art,dick
+27,I-Work of Art,I-Work of Art,in
+27,I-Work of Art,O,a
+27,I-Work of Art,O,box
+28,O,O,bass
+28,O,O,boosted
+29,O,O,looking
+29,O,O,for
+29,O,O,music
+29,O,O,like
+29,O,O,this
+29,O,O,song
+29,O,O,|
+29,O,O,doesnt
+29,O,O,have
+29,O,O,to
+29,O,O,be
+29,O,O,christian
+29,O,O,like
+29,O,O,the
+29,O,O,song
+29,O,O,is
+30,O,O,request
+30,O,O,|
+30,O,O,more
+30,O,O,hypnagogic
+30,O,O,downsampled
+30,O,O,chiptunes
+30,O,O,similar
+30,O,O,to
+30,O,O,this
+31,O,O,got
+31,O,O,really
+31,O,O,into
+31,B-Artist,B-Artist,mgmt
+31,O,O,recently
+31,O,O,but
+31,O,O,theres
+31,O,O,not
+31,O,O,enough
+31,O,O,of
+31,O,O,their
+31,O,O,stuff
+31,O,O,|
+31,O,O,any
+31,O,O,other
+31,O,O,bands
+31,O,O,that
+31,O,O,have
+31,O,O,that
+31,O,O,same
+31,O,O,sort
+31,O,O,of
+31,O,O,odd
+31,O,O,sound
+31,O,O,about
+31,O,O,them
+32,O,O,suggestions
+32,O,O,for
+32,O,O,street
+32,O,O,level
+32,O,O,combat
+32,O,O,themes
+32,O,O,|
+32,O,O,all
+32,O,O,genres
+32,O,O,welcome
+33,O,O,techno
+33,O,O,remixes
+34,O,O,im
+34,O,O,addicted
+34,O,O,to
+34,B-Work of Art,O,this
+34,I-Work of Art,B-Work of Art,song
+34,I-Work of Art,I-Work of Art,is
+34,I-Work of Art,I-Work of Art,not
+34,I-Work of Art,I-Work of Art,about
+34,I-Work of Art,O,a
+34,I-Work of Art,B-Artist,girl
+34,O,O,by
+34,B-Artist,B-Artist,flume
+34,O,I-Artist,&
+34,B-Artist,O,chet
+34,I-Artist,O,faker
+34,O,O,|
+34,O,O,what
+34,O,O,else
+34,O,O,would
+34,O,O,i
+34,O,O,like
+35,O,O,looking
+35,O,O,for
+35,O,O,1930s
+35,O,O,style
+35,O,O,upbeat
+35,O,O,funny
+35,O,O,racoutious
+35,O,O,music
+35,O,O,hall
+35,O,O,type
+35,O,O,of
+35,O,O,songs
+35,O,O,like
+35,O,O,these
+35,O,O,that
+35,O,O,can
+35,O,O,be
+35,O,O,played
+35,O,O,on
+35,O,O,the
+35,O,O,piano
+36,O,O,songs
+36,O,O,with
+36,O,O,similar
+36,O,O,piano
+36,O,O,solos
+36,O,O,to
+36,O,O,the
+36,O,O,one
+36,O,B-Work of Art,in
+36,B-Work of Art,I-Work of Art,piano
+36,I-Work of Art,O,man
+37,O,O,looking
+37,O,O,for
+37,O,O,mixes
+37,O,O,music
+37,O,O,similar
+37,O,O,to
+37,O,O,this
+37,O,O,progressive
+37,O,O,house
+37,O,B-Work of Art,mix
+38,O,O,songs
+38,O,O,for
+38,O,O,when
+38,O,O,you
+38,O,O,are
+38,O,O,super
+38,O,O,tired
+38,O,O,but
+38,O,O,you
+38,O,O,still
+38,O,O,need
+38,O,O,to
+38,O,O,keep
+38,O,O,working
+39,O,O,more
+39,O,O,songs
+39,O,O,like
+39,O,O,these
+40,O,O,looking
+40,O,O,for
+40,O,O,songs
+40,O,O,similar
+40,O,B-Artist,to
+40,B-Artist,I-Artist,kid
+40,I-Artist,B-Work of Art,rocks
+40,B-Work of Art,I-Work of Art,greatest
+40,I-Work of Art,I-Work of Art,show
+40,I-Work of Art,I-Work of Art,on
+40,I-Work of Art,O,earth
+41,O,O,symphonic
+41,O,O,power
+41,O,O,metal
+41,O,O,with
+41,O,O,crisp
+41,O,O,intelligible
+41,O,O,vocals
+42,O,O,music
+42,O,O,similar
+42,O,O,to
+42,O,O,this
+42,O,O,|
+42,O,O,electronic
+42,O,O,coldwave
+42,O,O,ish
+43,O,O,some
+43,O,O,cool
+43,O,O,ambientish
+43,O,O,music
+44,O,O,into
+44,B-Artist,B-Artist,ben
+44,I-Artist,I-Artist,&
+44,I-Artist,I-Artist,ben
+44,O,O,songs
+44,O,O,any
+44,O,O,recommendations
+44,O,O,for
+44,O,O,similar
+44,O,O,genre
+44,O,O,music
+44,O,O,style
+45,O,O,music
+45,O,O,that
+45,O,O,has
+45,O,O,an
+45,O,O,orchestra
+45,O,O,with
+45,O,O,one
+45,O,O,primary
+45,O,O,singer
+46,O,O,song
+46,O,O,like
+46,B-Work of Art,B-Work of Art,glisten
+46,I-Work of Art,I-Work of Art,interlude
+46,B-Artist,B-Artist,jeremy
+46,I-Artist,I-Artist,zucker
+47,O,O,anything
+47,O,O,similar
+47,O,O,to
+47,B-Artist,O,i
+47,I-Artist,B-Artist,fight
+47,I-Artist,I-Artist,dragons
+48,O,O,looking
+48,O,O,for
+48,O,O,rock
+48,O,O,study
+48,O,O,music
+48,B-Artist,B-Artist,mogwai
+48,O,O,but
+48,O,O,not
+48,B-Artist,B-Artist,mogwai
+49,O,O,songs
+49,O,O,similar
+49,O,O,to
+49,B-Work of Art,B-Work of Art,seizure
+49,I-Work of Art,I-Work of Art,of
+49,I-Work of Art,O,power
+49,O,B-Work of Art,or
+49,B-Work of Art,I-Work of Art,the
+49,I-Work of Art,O,drowning
+50,O,O,songs
+50,O,O,with
+50,O,O,a
+50,O,O,lot
+50,O,O,of
+50,O,O,vocal
+50,O,O,harmony
+51,O,O,songs
+51,O,O,similar
+51,O,O,to
+51,B-Work of Art,O,the
+51,I-Work of Art,B-Work of Art,look
+51,O,O,by
+51,B-Artist,B-Artist,roxette
+52,O,O,guitar
+52,O,O,chill
+53,O,O,something
+53,O,O,along
+53,O,O,the
+53,O,O,lines
+53,O,O,of
+53,O,O,either
+53,B-Work of Art,B-Work of Art,the
+53,I-Work of Art,I-Work of Art,chain
+53,O,O,or
+53,B-Work of Art,B-Work of Art,mr
+53,I-Work of Art,I-Work of Art,blue
+53,I-Work of Art,O,sky
+54,O,O,anything
+54,O,O,simmilar
+54,O,O,to
+54,O,O,the
+54,B-Work of Art,B-Work of Art,llamas
+54,I-Work of Art,I-Work of Art,with
+54,I-Work of Art,I-Work of Art,hats
+54,O,I-Work of Art,outro
+55,O,O,looking
+55,O,O,for
+55,O,O,jazz
+55,O,O,either
+55,O,O,like
+55,O,O,the
+55,O,O,upbeat
+55,O,O,stuff
+55,O,O,in
+55,B-Work of Art,B-Work of Art,lala
+55,I-Work of Art,I-Work of Art,land
+55,O,O,or
+55,B-Artist,B-Artist,badbadnotgood
+56,O,O,i
+56,O,O,like
+56,B-Work of Art,B-Work of Art,wow
+56,O,I-Work of Art,main
+56,O,I-Work of Art,themes
+56,O,O,more
+56,O,O,like
+56,O,O,this
+57,O,O,looking
+57,O,O,for
+57,O,O,rap
+57,O,O,suggestions
+58,O,O,i
+58,O,O,love
+58,O,O,this
+58,O,O,track
+58,O,O,but
+58,O,O,dont
+58,O,O,know
+58,O,O,where
+58,O,O,what
+58,O,O,genre
+58,O,O,to
+58,O,O,look
+58,O,O,for
+59,O,O,what
+59,O,O,are
+59,O,O,some
+59,O,O,bands
+59,O,O,with
+59,O,O,a
+59,O,O,sort
+59,O,O,of
+59,O,O,acoustic
+59,O,O,pop
+59,O,O,punk
+59,O,O,sound
+60,O,O,suggest
+60,O,O,some
+60,O,O,modern
+60,O,O,bass
+60,O,O,heavy
+60,O,O,funk
+60,O,O,soul
+60,O,O,music
+61,O,O,suggestions
+61,O,O,for
+61,O,O,something
+61,O,O,similar
+61,O,O,to
+61,O,O,this
+61,O,B-Work of Art,masterpiece
+61,O,O,|
+61,O,O,i
+61,O,O,havent
+61,O,O,been
+61,O,O,able
+61,O,O,to
+61,O,O,find
+61,O,O,anything
+61,O,O,like
+61,O,O,it
+62,O,O,any
+62,O,O,new
+62,O,O,music
+63,O,O,music
+63,O,O,with
+63,O,O,clever
+63,O,O,word
+63,O,O,play
+64,O,O,songs
+64,O,O,artists
+64,O,O,similar
+64,O,O,to
+64,B-Artist,B-Artist,yeek
+64,B-Artist,B-Artist,steve
+64,I-Artist,I-Artist,lacy
+65,O,O,christian
+65,O,O,or
+65,O,O,fun
+65,O,O,ska
+66,O,O,looking
+66,O,O,for
+66,O,O,some
+66,O,O,more
+66,O,O,reggae
+66,O,O,island
+66,O,O,music
+66,O,O,groups
+66,O,O,or
+66,O,O,artists
+67,O,O,im
+67,O,O,looking
+67,O,O,for
+67,O,O,songs
+67,O,O,similar
+67,O,O,to
+67,B-Artist,B-Artist,igorrr
+67,B-Work of Art,I-Artist,robert
+68,O,O,roadtrip
+68,O,O,music
+68,O,O,suggestions
+69,O,O,i
+69,O,O,need
+69,O,O,some
+69,O,O,new
+69,O,O,music
+70,O,O,something
+70,O,O,similar
+70,O,O,to
+70,B-Work of Art,B-Work of Art,night
+70,I-Work of Art,I-Work of Art,flight
+70,B-Artist,O,quintus
+70,I-Artist,O,project
+70,O,O,and
+70,B-Work of Art,B-Work of Art,no
+70,I-Work of Art,I-Work of Art,happy
+70,I-Work of Art,B-Artist,endings
+70,B-Artist,I-Artist,tangerine
+70,I-Artist,O,dream
+71,O,O,hey
+71,O,O,recommend
+71,O,O,me
+71,O,O,artists
+71,O,O,similar
+71,O,O,to
+71,B-Artist,B-Artist,adam
+71,I-Artist,I-Artist,lambert
+72,O,O,looking
+72,O,O,for
+72,O,O,songs
+72,O,O,like
+72,B-Artist,B-Artist,thousand
+72,I-Artist,I-Artist,foot
+72,I-Artist,I-Artist,krutch
+72,B-Work of Art,B-Work of Art,be
+72,I-Work of Art,I-Work of Art,somebody
+73,O,O,something
+73,O,O,like
+73,O,O,the
+73,O,O,first
+73,O,O,eleven
+73,O,O,seconds
+73,O,O,of
+73,B-Work of Art,B-Work of Art,september
+74,O,O,any
+74,O,O,other
+74,O,O,songs
+74,O,O,like
+74,B-Work of Art,B-Work of Art,glitter
+74,I-Work of Art,I-Work of Art,and
+74,I-Work of Art,O,gold
+74,O,B-Artist,from
+74,B-Artist,I-Artist,barns
+74,I-Artist,O,courtney
+75,O,O,looking
+75,O,O,for
+75,O,O,songs
+75,O,O,similar
+75,O,O,in
+75,O,O,subject
+75,O,O,and
+75,O,O,style
+75,O,O,to
+75,O,B-Work of Art,the
+75,O,I-Work of Art,intro
+75,O,I-Work of Art,to
+75,B-Work of Art,O,black
+75,I-Work of Art,B-Artist,parade
+75,O,I-Artist,by
+75,B-Artist,I-Artist,my
+75,I-Artist,I-Artist,chemical
+75,I-Artist,O,romance
+76,O,O,music
+76,O,O,similiar
+76,O,O,to
+76,B-Artist,B-Artist,frank
+76,I-Artist,I-Artist,ocean
+76,B-Work of Art,B-Work of Art,blonde
+77,O,O,song
+77,O,O,for
+77,O,O,a
+77,O,O,wake
+78,O,O,similar
+78,O,O,to
+78,B-Artist,B-Artist,grizzly
+78,I-Artist,I-Artist,bear
+78,B-Work of Art,B-Work of Art,will
+78,I-Work of Art,I-Work of Art,calls
+78,O,O,|
+78,B-Artist,B-Artist,diplo
+78,O,I-Artist,remix
+79,O,O,metal
+79,O,O,or
+79,O,O,rock
+79,O,O,music
+79,O,O,associated
+79,O,O,with
+79,O,O,traditional
+79,O,O,instruments
+80,O,O,any
+80,O,O,really
+80,O,O,powerful
+80,O,O,and
+80,O,O,angry
+80,O,O,songs
+81,O,O,looking
+81,O,O,for
+81,O,O,a
+81,O,O,rock
+81,O,O,song
+81,O,O,used
+81,O,O,as
+81,O,O,a
+81,O,O,introduction
+81,O,O,in
+81,O,O,movies
+82,O,O,anything
+82,O,O,similar
+82,O,O,to
+82,O,O,this
+82,O,O,song
+83,O,O,a
+83,O,O,love
+83,O,O,interest
+83,O,O,took
+83,O,O,his
+83,O,O,own
+83,O,O,life
+83,O,O,|
+83,O,O,emotional
+83,O,O,songs
+83,O,O,to
+83,O,O,help
+83,O,O,me
+83,O,O,cope
+84,O,O,looking
+84,O,O,for
+84,O,O,something
+84,O,O,strange
+84,O,O,or
+84,O,O,funny
+85,O,O,music
+85,O,O,that
+85,O,O,moves
+85,O,O,you
+86,O,O,music
+86,O,O,with
+86,O,O,guitar
+86,O,O,like
+86,B-Artist,B-Artist,zedd
+86,B-Work of Art,B-Work of Art,happy
+86,I-Work of Art,I-Work of Art,now
+87,O,O,artists
+87,O,O,like
+87,B-Artist,B-Artist,last
+87,I-Artist,I-Artist,dinosaurs
+87,O,O,and
+87,B-Artist,B-Artist,two
+87,I-Artist,I-Artist,doors
+87,I-Artist,I-Artist,cinemas
+87,I-Artist,I-Artist,club
+88,O,O,any
+88,O,O,song
+88,O,O,suggestions
+88,O,O,for
+88,O,O,something
+88,O,O,that
+88,O,O,sounds
+88,O,O,like
+88,B-Artist,B-Artist,jimin
+88,I-Artist,I-Artist,parks
+88,B-Work of Art,I-Artist,young
+89,O,O,80s
+89,O,O,style
+89,O,O,synthwave
+89,O,O,music
+89,O,O,what
+89,O,O,artists
+89,O,O,songs
+89,O,O,would
+89,O,O,i
+89,O,O,like
+90,O,O,songs
+90,O,O,like
+90,B-Artist,B-Work of Art,voin
+90,I-Artist,I-Work of Art,oruwu
+90,B-Work of Art,O,amplification
+91,O,O,wanting
+91,O,O,suggestion
+91,O,O,on
+91,O,O,music
+91,O,O,like
+91,O,O,you
+91,O,B-Work of Art,are
+91,O,I-Work of Art,entering
+91,O,I-Work of Art,into
+91,O,I-Work of Art,another
+91,O,I-Work of Art,world
+91,O,I-Work of Art,fairyland
+91,O,O,peaceful
+91,O,O,kingdom
+91,O,O,etc
+91,O,O,with
+91,O,O,flutes
+91,O,O,that
+91,O,O,sort
+91,O,O,of
+91,O,O,thing
+92,O,O,gospel
+92,O,O,rap
+92,O,O,and
+92,O,O,r
+92,O,O,&
+92,O,O,b
+93,O,O,a
+93,O,O,song
+93,O,O,similar
+93,O,O,in
+93,O,O,style
+93,O,O,to
+93,B-Artist,B-Artist,wilbur
+93,I-Artist,I-Artist,soots
+93,O,O,music
+94,O,O,looking
+94,O,O,for
+94,O,O,music
+94,O,O,similar
+94,O,O,to
+94,O,O,this
+94,O,O,song
+94,O,O,for
+94,O,O,a
+94,O,O,playlist
+95,O,O,i
+95,O,O,randomly
+95,O,O,found
+95,O,O,a
+95,O,O,song
+95,O,O,called
+95,B-Work of Art,B-Work of Art,cherry
+95,I-Work of Art,I-Work of Art,blossom
+95,I-Work of Art,I-Work of Art,girl
+95,B-Artist,B-Artist,air
+95,O,O,and
+95,O,O,i
+95,O,O,love
+95,O,O,it
+95,O,O,|
+95,O,O,looking
+95,O,O,for
+95,O,O,similar
+95,O,O,songs
+96,O,O,halloween
+96,O,O,playlist
+97,O,O,looking
+97,O,O,songs
+97,O,O,that
+97,O,O,are
+97,O,O,equally
+97,O,O,offensive
+97,O,O,and
+97,O,O,funny
+97,O,O,that
+97,O,O,are
+97,O,O,similar
+97,O,O,to
+97,O,O,these
+98,O,O,songs
+98,O,O,with
+98,O,O,vague
+98,O,O,or
+98,O,O,confusing
+98,O,O,lyrics
+99,O,O,any
+99,O,O,songs
+99,O,O,similar
+99,O,O,to
+99,O,O,this
+99,O,O,style
