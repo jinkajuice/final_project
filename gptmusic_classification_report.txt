@@ -1,0 +1,11 @@
+               precision    recall  f1-score   support
+
+            O       0.96      0.98      0.97       734
+     B-Artist       0.77      0.77      0.77        39
+     I-Artist       0.76      0.74      0.75        35
+B-Work of Art       0.71      0.65      0.68        31
+I-Work of Art       0.75      0.57      0.65        42
+
+     accuracy                           0.93       881
+    macro avg       0.79      0.74      0.76       881
+ weighted avg       0.93      0.93      0.93       881
