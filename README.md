@@ -4,6 +4,8 @@ The experiments were conducted on two platforms:
 - A machine with Apple M1 and 8GB of Memory.
 - A Google Colab notebook with an L4 GPU Accelerator.
 
+The requirements.txt is are the libraries used for all files except for 04_ series. The series 04_ notebooks were developed using google colab and it is advised that they are executed there. Required packages are included in those notebooks.
+
 The files below are organised as follows:
 - hfdata_finer / hf_data_music are the Hugging Face format datasets.
 - 01_ files are the EDA notebooks.
